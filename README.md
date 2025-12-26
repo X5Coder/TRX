@@ -1,20 +1,44 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="TRX Banner" src="/assets/trx-banner.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
+# TRX Company
 
-This contains everything you need to run your app locally.
+## Work Online From Home
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Cd-jJ_eBI-w3sim0ksbJFLEevfOg8Hn2
+شغل أونلاين من البيت بدون ساعات عمل ثابتة وبرواتب عالية.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## About
 
+TRX Company منصة رقمية متخصصة في العمل عن بُعد، تتيح فرص عمل مرنة عبر الإنترنت مع نظام سهل وبسيط.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* لا يوجد التزام بساعات عمل
+* العمل بالكامل أونلاين
+* دخل مرتفع حسب الأداء
+* نظام حديث مع واجهة تفاعلية
+
+---
+
+## Website
+
+🔗 [https://trx-org.vercel.app/](https://trx-org.vercel.app/)
+
+---
+
+## Features
+
+* تصميم حديث مع **Animations** سلسة
+* أداء سريع ومتوافق مع جميع الأجهزة
+* تجربة مستخدم بسيطة وواضحة
+
+---
+
+## Contact
+
+📞 01124028803
+
+---
+
+© TRX Company
